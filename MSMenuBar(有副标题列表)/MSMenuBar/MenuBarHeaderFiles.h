@@ -9,7 +9,6 @@
 #ifndef MenuBar_h
 #define MenuBar_h
 
-
 // 获取CXMenuBar.bundle下的图片
 #define MSMenuBarBundleName @"MSMenuBar.bundle"
 #define MSMenuBarImagePathWithImageName(imageName) [MSMenuBarBundleName stringByAppendingPathComponent:imageName]
