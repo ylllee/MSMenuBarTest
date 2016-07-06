@@ -6,6 +6,11 @@
 //  Copyright © 2016年 limingshan. All rights reserved.
 //
 
+/**
+ * 这是一个类似预编译文件的文件
+ * 为了省事儿，导入了UIViewExt
+ */
+
 #ifndef MenuBar_h
 #define MenuBar_h
 
